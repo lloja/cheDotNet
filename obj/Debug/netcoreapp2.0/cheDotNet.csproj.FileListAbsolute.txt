@@ -1,0 +1,10 @@
+/projects/cheDotNet/bin/Debug/netcoreapp2.0/cheDotNet.deps.json
+/projects/cheDotNet/bin/Debug/netcoreapp2.0/cheDotNet.runtimeconfig.json
+/projects/cheDotNet/bin/Debug/netcoreapp2.0/cheDotNet.runtimeconfig.dev.json
+/projects/cheDotNet/bin/Debug/netcoreapp2.0/cheDotNet.dll
+/projects/cheDotNet/bin/Debug/netcoreapp2.0/cheDotNet.pdb
+/projects/cheDotNet/obj/Debug/netcoreapp2.0/cheDotNet.csproj.CoreCompileInputs.cache
+/projects/cheDotNet/obj/Debug/netcoreapp2.0/cheDotNet.AssemblyInfoInputs.cache
+/projects/cheDotNet/obj/Debug/netcoreapp2.0/cheDotNet.AssemblyInfo.cs
+/projects/cheDotNet/obj/Debug/netcoreapp2.0/cheDotNet.dll
+/projects/cheDotNet/obj/Debug/netcoreapp2.0/cheDotNet.pdb
